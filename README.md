@@ -1,16 +1,16 @@
-## Hi there 👋
+# Adrian Suarez
 
-<!--
-**asuarez7/asuarez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I spend my time hunting down repetitive, manual, soul draining tasks and replacing them with automations.
 
-Here are some ideas to get you started:
+## What I Care About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Deleting drudgery. I beleive that work should be fun and the rest should be left to the machines  
+
+
+## Current Direction
+
+Running experiments to see how CLI coding agents can change ways of working in operations. Building Agents, skills, workflows in N8N, to tackle the hardest problems in operations. 
+
+## Connect
+
+LinkedIn:(https://www.linkedin.com/in/adriansuarez10/)
