@@ -6,6 +6,14 @@ I work in Operations and am using this platform to share my ideas and learnings.
 **Custom vs Scaleable**
 With AI you no longer need to choose between custom and and scalable op as you can design for both simultaneously. The constaint of execution has disappeared! For customer facing processes it means everyone can get an indivudualized experience. For internal work humans can focus on stradegy and adaption instead of execution of data uploads and SOPs. 
 
+**Governance — What I've Learned So Far**
+A few things I've pushed for and seen work:
+
+Coding agents should be widely accessible. ICs understand their work best but need to access to explore soltuions. 
+
+API and MCP server creation should go through or be reviewed by engineering or security, because that's where you're defining what actions agents can actually take. Start every new data connection with read-only access. 
+
+
 **Context management for the AI era**
 Operations has always run on process docs, SOPs, and knowledge bases. But those were built for a world where humans read them. How do we redesign organizational knowledge (and the change management around it) so that AI agents can actually use it? Still figuring this one out.
 
